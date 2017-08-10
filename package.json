@@ -1,0 +1,19 @@
+{
+  "name": "cxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cvitas/cxjs.git"
+  },
+  "author": "cx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cvitas/cxjs/issues"
+  },
+  "homepage": "https://github.com/Cvitas/cxjs#readme"
+}
